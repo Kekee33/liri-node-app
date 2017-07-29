@@ -39,7 +39,6 @@ switch(command) {
     case "movie-this":
     myMovie();
     break;
-
     case "do-what-it-says":
     randomPick();
     break;
